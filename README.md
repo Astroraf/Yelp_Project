@@ -1,2 +1,4 @@
 # Yelp_Project
-Yelp Project for Flatiron School
+Yelp Project at  Flatiron School Phase 1 
+
+
