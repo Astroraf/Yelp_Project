@@ -11,6 +11,7 @@ For this analysis, we are analyzing where to setup a Yoga businesses within NYC 
 <p align="center">
  <img width="360" height="120" src=images/Yelp.png>
  </p>
+ 
 
 Yelp utilizes many various attributes when looking for certain types of business. Whether it is location, type of business, how expensive are the services, or the amount of reviews. By utilizing Yelp's API called Fusion, we are able to provide our customer what is the best location for setting up their business. By taking in various conditions based on the Yelp API, we can provide a detailed report based on the factors that decide the success of a business.
 
