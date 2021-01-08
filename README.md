@@ -52,7 +52,7 @@ Our final analysis honed down specifically on Brooklyn and Central London. In bo
 
 
 <p align="center">
-  <img width="650" height="450" src="image/Reviews_in_London_of_Yoga_Studios copy.png">
+  <img width="650" height="450" src="images/Reviews_in_London_of_Yoga_Studios.png">
 </p>
 
 <p align="center">
