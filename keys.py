@@ -1,0 +1,3 @@
+#Connection to the Yelp API with the keys created 
+client_id = "WdeBQ0QfW7ctlNNGDyNEwA"
+api_key = "qOP1w_dBiefuyHCkz5gzIlhtKzNxBNMi3uCVJib_Kzs_y0EKqn1pKpRlpGvAPmB2fZ_eVWv65j_o5rmiT9HNK10tH5rosM3GfauVdQU0TvfOtdqn4L3zzLC2g1P3X3Yx"
